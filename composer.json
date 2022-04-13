@@ -34,7 +34,7 @@
 		"php": ">=7.4.3",
 		"ext-dom": "*",
 		"ext-filter": "*",
-		"composer/installers": "^1.0.12",
+		"composer/installers": "^2.1.1",
 		"mediawiki/bootstrap": "^4.5",
 		"jeroen/file-fetcher": "^6|^5|^4.4"
 	},
